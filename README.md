@@ -25,7 +25,7 @@ This project utilizes a **regression-based Machine Learning model** to estimate 
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/health-insurance-premium-prediction.git
+   git clone https://github.com/Jeysiva-apjs/health-insurance-premium-prediction.git
    cd health-insurance-premium-prediction
    ```  
 
