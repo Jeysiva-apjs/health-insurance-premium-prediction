@@ -5,13 +5,19 @@ A **Machine Learning-powered web application** for predicting **health insurance
 ## Project Overview
 This project utilizes a **regression-based Machine Learning model** to estimate health insurance costs. It features:
 
-**Frontend:** Developed with **Streamlit**, ensuring an intuitive and responsive UI.  
-**Machine Learning Model:** Trained using **Linear Regression, Random Forest, and XGBoost** for accurate premium predictions.  
-**Exploratory Data Analysis (EDA):** Conducted detailed **EDA and data visualization** to understand feature relationships.  
-**Data Processing:** Includes **data analysis, cleaning, and feature engineering** to enhance model performance.  
-**Deployment:** Easily deployable on **Streamlit Cloud** for live access.  
+- **Frontend:** Developed with **Streamlit**, ensuring an intuitive and responsive UI.
+- **Machine Learning Model:** Trained using **Linear Regression, Random Forest, and XGBoost** for accurate premium predictions.
+- **Exploratory Data Analysis (EDA):** Conducted detailed **EDA and data visualization** to understand feature relationships.
+- **Data Processing:** Includes **data analysis, cleaning, and feature engineering** to enhance model performance.
+- **Deployment:** Easily deployable on **Streamlit Cloud** for live access.  
 
----
+##  Tech Stack
+- **Language:** Python  
+- **Frontend:** Streamlit  
+- **ML Model:** Scikit-Learn, XGBoost, Pandas, NumPy  
+- **EDA & Visualization:** Pandas, Numpy, Matplotlib, Seaborn  
+- **Deployment:** Streamlit Cloud   
+
 
 ## Exploratory Data Analysis & Data Visualization
 Before training the model, extensive **EDA and data visualization** were performed to gain insights into the dataset, including:
@@ -22,16 +28,6 @@ Before training the model, extensive **EDA and data visualization** were perform
 - **Feature engineering** to enhance predictive power.
 - **Label Encoding & One-Hot Encoding** for categorical variables to improve model performance.
 - Visualizations were created using **Matplotlib and Seaborn** to present key patterns and relationships in the data.
-
-
-
-##  Tech Stack
-- **Language:** Python  
-- **Frontend:** Streamlit  
-- **ML Model:** Scikit-Learn, XGBoost, Pandas, NumPy  
-- **EDA & Visualization:** Matplotlib, Seaborn  
-- **Data Processing:** Data analysis, cleaning, and feature engineering  
-- **Deployment:** Streamlit Cloud   
 
 
 
