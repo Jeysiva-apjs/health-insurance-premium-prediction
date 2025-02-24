@@ -2,6 +2,8 @@
 
 A **Machine Learning-powered web application** for predicting **health insurance premiums** based on user inputs like age, medical condition, smoking status, and other factors. The frontend is built using **Streamlit**, providing a simple and interactive user experience.
 
+Live App:- https://jeysiva-apjs-health-insurance-premium-prediction.streamlit.app/
+
 ## Project Overview
 This project utilizes a **regression-based Machine Learning model** to estimate health insurance costs. It features:
 
